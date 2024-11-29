@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  color: #666666;
+  margin: 0
+}
+.menu {
+  padding-top: 15px;
+	  
+	  
+}
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex
+}
+.menu ul li a {
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  text-transform: uppercase;
+  color: #494949
+}
+.menu ul li a:hover {
+  background-color: darkred;
+  color: white;
+
+  
+}
+.logo{
+padding-top: 20px;
+}
+main {
+  width: 100%;
+  min-height: 500px;
+  clear: both
+}
+.tieu-de{
+	text-align: center
+}
+.icon{
+	padding-top: 20px
+}
